@@ -1,0 +1,21 @@
+body {
+    margin: 0 auto;
+    height: 250px;
+    width: 300px;
+    margin-top: 20px;
+    border: 1px solid black;
+    padding: 0 0.8rem 1.4rem 0.8rem;
+}
+
+
+tab-panel > div > button {
+    display: inline-block;
+    width: 100px;
+    font-size: 1.4rem;
+}
+
+.tab{
+    text-align: center;
+    font-size: 22px;
+    padding: 1.2rem;
+}
